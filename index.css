@@ -1,0 +1,45 @@
+body {
+  background-color: #848fa3;
+}
+  h1 {
+  text-align: center;
+  }
+  h3 {
+  font-size: 15px;
+  }
+    nav {
+      line-height:;
+      background-color:;
+      width:125px;
+      display: inline-block;
+      vertical-align: top;
+    }
+      li {
+        text-align: left;
+        list-style-type: none;
+      }
+        a {
+          color: green;
+        }
+  section {
+    margin-left: 170px;
+    margin-top: -170px;
+  }
+    section img {
+      text-align: center;
+      width: 400px;
+    }
+      article {
+        border-width: 5px;
+        border-color: green;
+      }
+      aside {
+        margin-left: 600px;
+        margin-top: -400px;
+      }
+      aside a {
+        color: blue;
+      }
+      footer {
+        margin-top: 300px;
+      }
